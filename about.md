@@ -4,25 +4,17 @@ title: About
 permalink: /about/
 ---
 
-### Why Devious?
+### Social Fabric
 
-For as long as I can remember, I was always taught to obey the rules.  Brush your teeth.  Clean your room.  Be quiet and attentive in class.  The act of disobedience in youth is usually accompanied by a harsh punishment and negative renforcement.  You're grounded.  Leave the room in humiliation and go to the Principal's office.  You must stay after school for detention.  Fall in line and obey or something bad will happen to you.
+"Social fabric" is a term that represents the implied contractual agreement for how members of society will treat each other.  In some societies, it might be common practice to start yelling at a complete stranger on the sidewalk.  In other societies, it might be frowned upon to even attempt to make eye contact with a stranger.
 
-Is it any wonder there are so few leaders when we are trained from childhood to be followers?
+Once an agreement has been established, can it ever be changed?  Or, are all members of the society doomed to survive under the current agreement?  What if that agreement could be improved over time and adaptable to change within the society?  At Social Fabric, we believe not only the social fabric of a society can and should be improved, but also that it is the civic duty of members of that society to drive those improvements.
 
-#### Do The Right Thing
+Martin Luthor King, Jr. drove change that fueled a revolution to improve civil rights for minorities in America.  Gandhi led a movement for freedom and equality that eventually led to India's independence from British rule.  I would venture to guess that if you asked either man about themselves, they wouldn't claim to be heroes; they would simply claim they stood up to accept their civic duty.
 
-True leaders don't just blindly obey; they do what they feel is right, no matter what.  If you do what you feel is right, you are likely to have better results than you would have by doing the wrong thing.
+#### Better Yourself, Better the World
 
-#### Face the Consequences
+Change starts with you.  You have to live and breathe the change that you want to see in the world.  Do you want people to be more kind, charitable and fun?  When was the last time you did something truly kind like genuinely compliment a stranger?  When was the last time you were truly charitable - did you go out and help someone or just write a check?  When was the last time you did something truly fun like start a spontaneous game of tag with strangers in a busy park?  If you start living your dream before society has accepted it, people will be looking at you and might even judge you and your behavior.  You will be polarizing - some people will love you and some people will hate you just as some people loved and hated Martin Luthor King, Jr., Gandhi, and all the other changemakers in history.
 
-Disobedience can still definitely be accompanied by harsh punishment, but, a leader will do what they feel is right in the face of that harsh punishment.  A leader is willing to gladly accept that punishment because failing to stand up for what he or she feels is right is a far greater punishment.
-
-#### Vision
-
-My goal is to spread the rebellious spirit; to start a revolution of unique and amazing people who will make the decision to think for themselves, go their own way and do what they think is right.
-
-#### Contact me
-
-[mikeburke106@gmail.com](mailto:mikeburke106@gmail.com)
+Accept the challenge.  
 
