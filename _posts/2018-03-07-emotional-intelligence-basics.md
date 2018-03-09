@@ -2,7 +2,7 @@
 layout: post
 title: Emotional Intelligence Basics
 description: "Learn the basics about emotional intelligence and find out more about enhancing your emotional skills."
-modified: 2018-02-19
+modified: 2018-03-07
 tags: [emotional intelligence, meditation, social influence]
 image:
   feature: EmotionalIntelligence.jpg

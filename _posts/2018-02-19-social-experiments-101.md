@@ -16,7 +16,11 @@ I know what you're thinking - "Oh, I can just make eye contact with people?  How
 
 Still here?  Cool.
 
-Check out this [YouTube video](https://www.youtube.com/watch?v=1EumnijQBhw) to find out how important strong eye contact can be in creating personal connections.  Without saying a word, you can make someone smile, laugh or have an emotional episode, crying or throwing their arms around you in joy.  We suppress our emotions so much in American society, just the simple vulnerability of holding eye contact can break down our emotional barriers.
+Watch this video to see the effect strong eye contact can have in creating personal connections.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1EumnijQBhw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Without saying a word, you can make someone smile, laugh or have an emotional episode, crying or throwing their arms around you in joy.  We suppress our emotions so much in American society, just the simple vulnerability of holding eye contact can break down our emotional barriers.
 
 The experiment is pretty simple - all you have to do is initiate eye contact with everyone you come across as you go about whatever you're doing.  If you successfully make eye contact with someone, hold it as long as you can.  Usually, the other person will break first because sustained eye contact is known as a signal of intimacy or aggression.  If you must break first, whatever you do, don't look down!  Looking down when breaking eye contact is a sign of submission and the entire purpose of this experiment is to practice being assertive and vulnerable.  So, if you must break, break by looking to the side or up.
 
