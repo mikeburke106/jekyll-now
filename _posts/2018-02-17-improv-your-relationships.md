@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Improv(e) Your Relationships
+description: "Do you have trouble creating connections with people?  Use improv comedy to improv(e) your relationships."
+modified: 2018-02-17
+tags: [relationships, improv]
+image:
+  feature: improv.png
 ---
 
 Stories are all about relationships.

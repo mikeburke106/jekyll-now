@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Social Experiments 101
+description: "Have some fun with random strangers while you improve yourself with these social experiments."
+modified: 2018-02-19
+tags: [social psychology, assertiveness, confidence]
+image:
+  feature: SocialMedia.jpg
 ---
 
 When people hear that I enjoy doing random social experiments, a lot of people want to know the details.  So, here you go, here are some fun social experiments I like to do on a regular basis to get out of my comfort zone.
@@ -25,7 +30,7 @@ Another experiment I commonly practice is holding my ground as I walk down the s
 
 What these submissive people fail to understand is that **they have as much right to this public space as anyone else**!  You don't have to duck and bow out of everyone's way - why shouldn't people be ducking and bowing out of your way?  Now, this isn't about being narcissistic or arrogant - "Hey, I'm Big Mike; I'm the shit and everyone can GTFO of my way!" - and I'm certainly not saying that it's somehow wrong to move out of someone's path.  This is an exercise in assertiveness for people who aren't used to being assertive.
 
-Again, the experiment is simple.  Walk down the sidewalk in a straight line with a set path in mind.  Notice when you deviate from that path and for what reason.  As always, self-awareness is the first and most important step. 
+Again, the experiment is simple.  Walk down the sidewalk in a straight line with a set path in mind.  Notice when you deviate from that path and for what reason.  As always, self-awareness is the first and most important step.
  So, at first, just notice how often you change your desired path in order to get out of other people's desired paths.  You'll probably realize you are doing it far more often than you might have guessed.  The next step is to refuse to get out of people's way.  Most people will see your display of assertiveness and fall in line, submitting to you by moving out of your way.  Otherwise, you need to hold your ground all the way to the point of letting them bump into you if necessary.
 
 #### Side Bar
@@ -86,4 +91,3 @@ Want to make a fool out of yourself on stage doing improv?  Well, that's what th
 Getting comfortable with cold approaches makes every other social interaction seem ridiculously easy in comparison.
 
 These are my favorite social experiments and I do at least 2 of them practically daily.  Don't like mine?  That's cool, make up your own!  As long as you're being social and doing something that makes you mildly uncomfortable, you're getting out of your comfort zone and you're on the path to self-improvement!
-

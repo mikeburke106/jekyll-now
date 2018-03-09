@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
+title: About Social Fabric
 permalink: /about/
+comments: false
+modified: 2018-02-19
 ---
 
 ### Social Fabric
@@ -17,4 +19,3 @@ Martin Luther King, Jr. drove change that fueled a revolution to improve civil r
 Change starts with you.  You have to live and breathe the change that you want to see in the world.  Do you want people to be more kind, charitable and fun?  When was the last time you did something truly kind like genuinely compliment a stranger?  When was the last time you were truly charitable - did you go out and help someone or just write a check?  When was the last time you did something truly fun like start a spontaneous game of tag with strangers in a busy park?  If you start living your dream before society has accepted it, people will be looking at you and might even judge you and your behavior.  You will be polarizing - some people will love you and some people will hate you just as some people loved and hated Martin Luther King, Jr., Gandhi, and all the other changemakers in history.
 
 Accept the challenge.  
-
