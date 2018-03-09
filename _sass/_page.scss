@@ -9,7 +9,7 @@ body {
 	background-color: $body-color;
 }
 
-/* 
+/*
    Main content
    ========================================================================== */
 
@@ -46,7 +46,20 @@ body {
 	}
 }
 
-/* 
+.entry-read-more-header {
+	position: relative;
+	top: -48px;
+	left: 0;
+	right: 0;
+	height: 36px;
+	text-align: center;
+
+	a {
+		@extend .btn;
+	}
+}
+
+/*
    Entry header
    ========================================================================== */
 
@@ -138,9 +151,9 @@ body {
 
 .entry-image {
 	position: relative;
-	top: -50%; 
-	left: -50%; 
-	width: 200%; 
+	top: -50%;
+	left: -50%;
+	width: 200%;
 	height: 200%;
 	min-height: $feature-image-height;
 	overflow: hidden;
@@ -156,12 +169,12 @@ body {
 	}
 
 	img {
-		position: absolute; 
-		top: 0; 
-		left: 0; 
-		right: 0; 
-		bottom: 0; 
-		margin: auto; 
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		margin: auto;
 		min-width: 50%;
 		min-height: $feature-image-height; // match .entry-image min-height
 	}
@@ -212,7 +225,7 @@ body {
 	}
 }
 
-/* 
+/*
    Single post and page
    ========================================================================== */
 
@@ -409,7 +422,7 @@ header .entry-meta {
 		margin: 0;
 		@include font-rem(28);
 
-		a { 
+		a {
 			color: $text-color;
 		}
 
@@ -427,12 +440,12 @@ header .entry-meta {
 	width: 100%;
 	text-align: left;
 
-	h4 { 
+	h4 {
 		@include font-rem(18);
-		margin-bottom: 0; 
+		margin-bottom: 0;
 	}
 
-	span { 
+	span {
 		display: block;
 		@include font-rem(14);
 		color: lighten($base-color,50);
@@ -448,7 +461,7 @@ header .entry-meta {
 	}
 }
 
-/* 
+/*
    Post index
    ========================================================================== */
 
@@ -475,6 +488,8 @@ header .entry-meta {
 		border-radius: 3px;
 		margin-bottom: 20px;
 		padding: 25px 15px;
+		height: 2000px;
+		overflow: hidden;
 
 		@media #{$medium} {
 			padding: 30px;
@@ -512,7 +527,7 @@ header .entry-meta {
 	}
 }
 
-/* 
+/*
    Footer
    ========================================================================== */
 
@@ -527,14 +542,14 @@ header .entry-meta {
 	}
 }
 
-/* 
+/*
    Social share
    ========================================================================== */
 
 .socialcount {
 	@include font-rem(16);
 
-	li { 
+	li {
 		padding-left: 10px;
 		padding-right: 10px;
 	}
@@ -546,7 +561,7 @@ header .entry-meta {
 }
 
 
-/* 
+/*
    Browser upgrade
    ========================================================================== */
 
@@ -555,7 +570,7 @@ header .entry-meta {
 	text-align: center;
 }
 
-/* 
+/*
    Google Search
    ========================================================================== */
 

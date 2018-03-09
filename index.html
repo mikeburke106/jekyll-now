@@ -33,6 +33,9 @@ comments: false
     {{ post.content }}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
+<div class="entry-read-more-header">
+  <a href="{{ site.url }}{{ post.url }}" class="entry-read-more-btn">Read More</a>
+</div><!-- /.read-more-header -->
 {% endfor %}
 
 {% include pagination.html %}
