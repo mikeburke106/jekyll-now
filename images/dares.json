@@ -1,7 +1,9 @@
 {
+  "version": "1.0.0",
+  "publishDate": "6/21/2018",
   "dares": [
     {
-      "text": "Dare1", "time": 10
+      "text": "Dare1", "time": 10, "imageUrl": "http://sofabshirts.com/images/SocialFabric.png"
     },
     {
       "text": "Dare2", "time": 20
