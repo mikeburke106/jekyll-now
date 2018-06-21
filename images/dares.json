@@ -1,13 +1,13 @@
 {
-  [
+  "dares": [
     {
-      "Dare1", 10
+      "text": "Dare1", "time": 10
     },
     {
-      "Dare2", 20
+      "text": "Dare2", "time": 20
     },
     {
-      "Dare3", -1
+      "text": "Dare3", "time": -1
     }
   ]
 }
