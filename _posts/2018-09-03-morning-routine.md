@@ -5,14 +5,14 @@ title: Importance of a Morning Ritual
 
 An effective day starts with an effective morning ritual; one that not only helps you get out of bed in the morning but one that makes you feel **excited** to get out of bed in the morning.
 
-I've been doing a morning ritual for about 2 months now.  In fact, writing this blog post is part of my morning ritual.  I pack the first hour and a half of my day with things that are important to me, but that I frequently make excuses not to do.
+I've been doing a morning ritual for about 2 months now.  I pack the first hour and a half of my day with things that are important to me, but that I frequently make excuses not to do.  In fact, writing this blog post is part of my morning ritual.
 
 Tracking the first part of your day gets a cadence going and helps you stay on track for the rest of the day, so I track each activity down to the minute.
 
 Here's my current morning routine:
 
 | Duration | Activity |
-| -------- |:--------:|
+|:--------:|:--------:|
 | 10m | Brush teeth, drink water |
 | 15m | Exercise |
 | 5m  | Meditation |
