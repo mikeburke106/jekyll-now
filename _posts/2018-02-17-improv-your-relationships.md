@@ -46,6 +46,9 @@ A great relationship requires giving and taking in many different contexts.  For
 Consider the following dialogue:
 
 > "Oh my god, this fruit punch is absolutely disgusting!"
+
+<br/>
+
 > "Actually, I made the punch.  It's a family recipe that's been in my family for generations.  My grandmother helped me make this batch just this morning."
 
 The first line is an obvious "give" - the first character is giving the scene an intended topic of conversation.  The second line is an obvious "take" - the second character interprets the first line to mean "our scene is about how this fruit punch affects our relationship" and establishes an emotional connection based on that.
