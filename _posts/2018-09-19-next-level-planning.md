@@ -15,7 +15,7 @@ Life moves forward whether you plan it or not.  Do you know where you're going?
 6. Synergize
 7. Sharpen the Saw
 
-One of the most impactful takeaways I have put into practice recently is the habit of planning your life.  While planning isn't one of *the* 7 habits, it actually embodies the first 3 habits.
+One of the most impactful takeaways I have put into practice recently is the habit of planning your life.  While planning isn't one of *the* 7 habits, it actually embodies the first three habits.
 
 ### Be Proactive
 
@@ -67,13 +67,15 @@ The truly effective people in the world focus on Quartile 2 - things that are im
 
 Use [this worksheet](https://docs.google.com/document/d/1qlYBXkTea9AjyFKvUuCIKQF9l_c9kdVWmaKlPmsDTs8/edit?usp=sharing) that I created to use for my own personal planning to map out your activities based on importance and urgency.
 
-List your personal values at the top, add the dates for this week and a value you really want to focus on this week.  Set yourself a weekly goal by asking, "What's the most important thing I can do this week?  Then, start prioritizing your tasks in the columns below.  I also keep a list of helpful reminders or motivational quotes that will inspire me.
+List your personal values at the top, add the dates for this week and a value you really want to focus on this week.  Set yourself a weekly goal by asking, "What could I get done this week that would have the biggest positive impact on my life?"
+
+Then, start prioritizing your tasks in the columns below.  I also keep a list of helpful reminders or motivational quotes that will inspire me throughout the day.
 
 Carry this sheet with you at all times and reflect on your goals for the week often.
 
 ### Conclusion
 
-If you want to be a highly effective person, planning your life is a great place to start.  You'll get working on 3 of *The 7 Habits of Highly Effective People* simultaneously!
+If you want to be a highly effective person, planning your life is a great place to start.  You'll get working on three of *The 7 Habits of Highly Effective People* simultaneously!
 
 Begin by being proactive and making time to reflect on what really matters to you.  Define in detail what you want to do in life and the steps it will take to get there.  Then, based on what you want to do and how you're going to do it, start listing out everything you have to do and prioritizing those things based on their importance and urgency.
 
