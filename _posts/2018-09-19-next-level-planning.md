@@ -29,28 +29,47 @@ To "Be Proactive" means to use the resources at your disposal to mitigate risks,
 
 In order to effectively plan your week, you need to know where you're going and what you're working towards.
 
-We all have a ton of things we need to get done every week and very often new things come up that require urgent attention throughout the week.  In order to properly prioritize, you need to know what's important to you in life.  [What are your values?](http://sofabshirts.com/define-your-values/)  What is your mission in life?  What do you want to achieve during your short little burst of life on earth?
+We all have a ton of things we need to get done every week and very often new things come up that require urgent attention throughout the week.  In order to properly prioritize, you need to know what's important to you in life.
+
+What is your mission in life?
+
+What do you want to achieve during your short little burst of life on earth?
+
+[What are your values?](http://sofabshirts.com/define-your-values/)
 
 To "Begin With The End In Mind" means to seriously reflect on where you are going and the values you will hold yourself to in the process of getting there.
 
 ### Put First Things First
 
-Have you ever had a crazy busy day, yet as you reflect at the end of the day you realize you didn't really get *anything* done?  Those days are demoralizing, distracting and can make you want to give up on yourself.  You might even rationalize giving up - "See, I just don't have time to improve this area of my life, I need to focus on more immediate concerns."  If you allow yourself to make excuses and give up, you will never be successful because you'll give up every time things get hard.
+Have you ever had a crazy busy day, yet as you reflect at the end of the day you realize you didn't really get *anything* done?
 
-To "Put First Things First" means to prioritize tasks based on more than just urgency.  Animals react based on nothing but urgency - they interpret a stimulus and immediately respond to that stimulus as it arises.  Humans, on the other hand, have self-awareness, which means we have the opportunity to pause in response to a stimulus and make a choice about how we should respond.  Take advantage of this moment; choose to respond with mindfulness instead of following your base animal instincts.
+Those days are demoralizing, distracting and can make you want to give up on yourself.  You might even rationalize giving up - "See, I just don't have time to improve this area of my life, I need to focus on more immediate concerns."
 
-The book recommends weighing urgency of tasks - the amount of time before something must be completed - with the importance of tasks - how valuable the task would be once it is completed.  Then, make a prioritized list of each item for each possible category:
+If you allow yourself to make excuses and give up, you will never be successful because you'll give up every time things get hard.
+
+To "Put First Things First" means to prioritize tasks based on more than just urgency.
+
+The book recommends weighing urgency of tasks - the amount of time before something must be completed - with the importance of tasks - how much impact the task will have on progressing towards your goals.
+
+Then, make a prioritized list of each item for each possible category:
 
 Quartile 1: Important & Urgent
+
 Quartile 2: Important & Not Urgent
+
 Quartile 3: Not Important & Urgent
+
 Quartile 4: Not Important & Not Urgent
 
-The book suggests that most people get bogged down in Quartile 1 & 3 - the urgent tasks - or they decide to give up on their goals and submit into Quartile 4 - things that aren't important or urgent like watching TV, playing video games or other time wasters.
+The book suggests that most people get bogged down in Quartiles 1 & 3 - the urgent tasks - or they decide to give up on their goals and submit into Quartile 4 - things that aren't important or urgent like watching TV, playing video games or other time-waster activities.
 
 The truly effective people in the world focus on Quartile 2 - things that are important, but not urgent.  For example, taking the time to plan your life is a Quartile 2 activity, along with things like defining your values, building or maintaining relationships with people who are important to you and, in fact, every single habit on the list is a Quartile 2 activity.
 
-Please utilize [this worksheet](https://docs.google.com/document/d/1qlYBXkTea9AjyFKvUuCIKQF9l_c9kdVWmaKlPmsDTs8/edit?usp=sharing) that I created to use for my own personal planning.
+Use [this worksheet](https://docs.google.com/document/d/1qlYBXkTea9AjyFKvUuCIKQF9l_c9kdVWmaKlPmsDTs8/edit?usp=sharing) that I created to use for my own personal planning to map out your activities based on importance and urgency.
+
+List your personal values at the top, add the dates for this week and a value you really want to focus on this week.  Set yourself a weekly goal by asking, "What's the most important thing I can do this week?  Then, start prioritizing your tasks in the columns below.  I also keep a list of helpful reminders or motivational quotes that will inspire me.
+
+Carry this sheet with you at all times and reflect on your goals for the week often.
 
 ### Conclusion
 
