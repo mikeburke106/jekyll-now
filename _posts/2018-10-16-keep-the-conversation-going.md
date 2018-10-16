@@ -16,7 +16,7 @@ Instead, focus on being fully present and truly listening to the other person. M
 
 It's impossible for our words to fully communicate our thoughts and emotions, so pay attention to the small details and try to understand what they're really trying to communicate with you.
 
-### Don't Ask Questions
+### Prefer Assumptions Over Questions
 When first meeting someone, many people have a bad habit of asking too many questions before building rapport and trust.
 
 Asking questions puts all the pressure on the other person to make the conversation interesting and makes them feel like they're being interrogated. Nobody wants to be interrogated or share personal information with a stranger, so they will want to end the conversation as quickly as possible.
