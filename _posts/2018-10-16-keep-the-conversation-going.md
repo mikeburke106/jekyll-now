@@ -24,23 +24,43 @@ Asking questions puts all the pressure on the other person to make the conversat
 For example, one of the most common (and detrimental) conversations we've all heard a thousand times might go something like this:
 
 > Hi, I'm Mike.  What's your name?
+
 > Jim.
+
 > Nice to meet you, Jim.  What do you do for a living?
+
 > I'm a barista.
+
 > That's cool, where do you barista?
+
 > Starbucks.
+
 > Nice, which Starbucks?
+
 > The one down on 8th Ave.
+
 > Hmm, I've never been to that one before.  Do you like it there?
+
 > Yeah, it's alright.
+
 > ... <awkward silence ensues>
+
 > Cool, so where do you live?... How long have you been there?... Do you like it there?...
+
 
 Instead of asking questions, make assumptions.  Your assumptions can be random or they can be cold reads - notice something about them and take a guess.
 
-For example, if I meet someone and notice they have longer fingernails on one hand than the other, I might make a cold read, "I can tell you're a musician - I'm guessing classical guitar?".
+For example, if I meet someone and notice they have longer fingernails on one hand than the other, I might make a cold read:
 
-If I don't notice anything in particular about them, I might just make a random assumption like, "Always good to meet another midwesterner!" or "I can tell you're an only child, I bet that was interesting growing up."
+>I can tell you're a musician - I'm guessing classical guitar?
+
+If I don't notice anything in particular about them, I might just make a random assumption like:
+
+> Always good to meet another midwesterner!
+
+or
+
+> I can tell you're an only child, I bet that was interesting growing up.
 
 The beauty of assumptions is that they work whether you're right or not.
 
