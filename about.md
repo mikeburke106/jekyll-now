@@ -1,20 +1,49 @@
 ---
 layout: page
-title: About
+title: About Social Fabric
 permalink: /about/
 ---
 
+### Who We Are
+We represent a movement to improve the world through collaboration and social change. We believe it is our civic duty to improve our communities in any way possible - both for today and for the future.
+
+We believe these improvements start with individual leadership and standing up for social change. We aim to follow in the footprints of Martin Luther King, Jr., Gandhi, Nelson Mandela, and the many other amazing individuals who stood up for righteousness in the face of extreme violence in order to spark social change.
+
+### Our Mission
+
+> To strengthen the social fabric of all communities through dedication to service, compassion, and empowerment.
+
+We believe that the path to a better world starts with stronger social fabric in local communities. Social fabric, in this sense, means strong relationships amongst our neighbors, trustworthy public servants, and a mutual dedication to improving ourselves and the communities in which we live.
+
+The social fabric of local communities can be strengthened through service, compassion, and empowerment.
+
+#### Service
+Service simply means we dedicate time and resources towards nurturing our communities.
+
+- Volunteering our time to those less fortunate
+- Pledging money to community initiatives like parks, roads, schools, neighborhood watch, etc
+- Keeping our environment clean and healthy for ourselves and our future community
+- Building a community conducive to innovation, collaboration, and trust
+
+#### Compassion
+Compassion means that we treat each other with dignity, courtesy, and respect. We have each other's backs, especially when things get tough.
+
+- Seek to understand each other and perspectives that are different than our own
+- Maintain a deep respect for human life - homelessness and starvation are entirely unnecessary
+- Treat each other with loving kindness in all situations
+
+#### Empowerment
+Empowerment means giving members of the community the power to help themselves and the community achieve success.
+
+- Respect basic human rights - food, shelter, freedom, security, etc.
+- Support members of our society who cannot support themselves, with the end-goal of self-sufficiency whenever possible
+- Equal opportunities for all - your race, nationality, religion, gender or amount of wealth should not prevent you from achieving success
+
 ### Social Fabric
+Social fabric also stands for social awareness through branding and marketing, with a strong focus on clothing.  Just as each individual thread relies on the threads surrounding it to hold a shirt together, so does each individual in a community rely on those around them to hold the community together.
 
-"Social fabric" is a term that represents the implied contractual agreement for how members of society will treat each other.  In some societies, it might be common practice to start yelling at a complete stranger on the sidewalk.  In other societies, it might be frowned upon to even attempt to make eye contact with a stranger.
+We help you share your message with the world through our network of socially conscious individuals who share our values.
 
-Once an agreement has been established, can it ever be changed?  Or, are all members of the society doomed to survive under the current agreement?  What if that agreement could be improved over time and adaptable to change within the society?  At Social Fabric, we believe not only the social fabric of a society can and should be improved, but also that it is the civic duty of members of that society to drive those improvements.
+We empower our customers with knowledge of important social issues and use effective branding and marketing techniques to inspire others to ask, "Hey, what's that about?"
 
-Martin Luther King, Jr. drove change that fueled a revolution to improve civil rights for minorities in America.  Gandhi led a movement for freedom and equality that eventually led to India's independence from British rule.  I would venture to guess that if you asked either man about themselves, they wouldn't claim to be heroes; they would simply claim they stood up to accept their civic duty.
-
-#### Improve Yourself, Improve the World
-
-Change starts with you.  You have to live and breathe the change that you want to see in the world.  Do you want people to be more kind, charitable and fun?  When was the last time you did something truly kind like genuinely compliment a stranger?  When was the last time you were truly charitable - did you go out and help someone or just write a check?  When was the last time you did something truly fun like start a spontaneous game of tag with strangers in a busy park?  If you start living your dream before society has accepted it, people will be looking at you and might even judge you and your behavior.  You will be polarizing - some people will love you and some people will hate you just as some people loved and hated Martin Luther King, Jr., Gandhi, and all the other changemakers in history.
-
-Accept the challenge.  
-
+You can do your part by simply wearing awesome, high-quality clothes representing powerful social movements and simply spread awareness to those who seek knowledge.
