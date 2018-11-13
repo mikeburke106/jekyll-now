@@ -18,11 +18,11 @@ Collaboration means team members challenging each other to perform at a higher l
 
 Collaboration means team members caring about each other on a personal level. Team members know about each other's aspirations, the work they enjoy and where they're going with their lives. They care enough to point out specific instances each other performed very well as well as how they can improve.
 
-### More Resources
+### Challenge Me!
 I've been reading [*Radical Candor*](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509/) by Kim Scott.
 
 The book has really helped me understand that if I truly care about someone, I need to challenge them to keep doing the awesome work they do while also challenging them to improve on areas I know they could do better.
 
-I encourage people who care about me to challenge me to see what I can really do.
+I encourage people who care about me to challenge me! Push me to perform my best and don't take it easy on me to spare my feelings.
 
 I want to be the best I can possibly be and I can't do that without your collaboration!
